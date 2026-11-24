@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1>🧭 ReScopeBench</h1>
-<h3>🤖 Towards Robust Long-Lived Agents</h3>
+<h1>🧭 ReScopeBench: Towards Robust Long-Lived Agents</h1>
 
 <p><i>Can agents keep experience useful when their environment changes?</i></p>
 
